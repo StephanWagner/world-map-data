@@ -1,0 +1,23 @@
+{
+  "name": "world-map-data",
+  "description": "A detailed SVG world map and single country maps including separated maps for autonomous regions, distinct island groups and disputed territories in the Miller cylindrical projection.",
+  "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "svg",
+    "world",
+    "map",
+    "country",
+    "flags"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephanwagner/world-map-data.git"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "scripts": {
+    "build": "node ./src/map.js"
+  }
+}
