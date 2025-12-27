@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/stephanwagner/world-map-data.git"
   },
+  "files": [
+    "maps"
+  ],
   "devDependencies": {},
   "dependencies": {},
   "scripts": {
