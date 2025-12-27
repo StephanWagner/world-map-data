@@ -1,7 +1,7 @@
 {
   "name": "world-map-data",
   "description": "A detailed SVG world map and single country maps including separated maps for autonomous regions, distinct island groups and disputed territories in the Miller cylindrical projection.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "license": "MIT",
   "keywords": [
