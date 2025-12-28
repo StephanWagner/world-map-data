@@ -12,7 +12,7 @@ https://stephanwagner.me
 
 ---
 
-## Building the maps
+## Maps
 
 The map data is generated using the `map.js` script.
 
@@ -23,6 +23,16 @@ which is exported from the Adobe Illustrator file
 
 These files are not part of the Git repository because of their size.
 They are hosted externally and only required when rebuilding the map data.
+
+---
+
+## Flags
+
+This folder contains SVG flags for all countries and regions listed by the [Travelers’ Century Club](https://travelerscenturyclub.org/countries-and-territories/alphabetical-list), including non-ISO territories..
+
+- ISO-3166-1 alpha-2 codes are used where available (e.g. `de`, `fr`, `us`)
+- Non-ISO regions and territories use custom codes (e.g. `ge-ab` for Abkhazia)
+- All filenames are lowercase for consistency and cross-platform safety
 
 ---
 

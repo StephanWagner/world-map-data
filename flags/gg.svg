@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450px" height="300px" viewBox="0 0 450 300">
+  <path fill="#FFFFFF" d="M0,0h450v300H0V0z" />
+  <path fill="#E8112D" d="M262.5,0v112.5H450v75H262.5V300h-75V187.5H0v-75h187.5V0H262.5z" />
+  <path fill="#F9DD16" d="M112.5,175l12.5-12.5h87.5V250L200,262.5h50L237.5,250v-87.5H325l12.5,12.5v-50L325,137.5h-87.5V50L250,37.5h-50L212.5,50v87.5H125L112.5,125V175z" />
+</svg>
